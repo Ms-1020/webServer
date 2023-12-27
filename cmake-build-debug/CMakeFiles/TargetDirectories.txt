@@ -1,0 +1,16 @@
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/format.dir
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/check-format.dir
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/cpplint.dir
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/clang-tidy.dir
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rjj/webServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rjj/webServer/cmake-build-debug/src/CMakeFiles/pine_shared.dir
+/home/rjj/webServer/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/rjj/webServer/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/build-tests.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/check-tests.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/multiple_client.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/server.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/single_client.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/rjj/webServer/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir

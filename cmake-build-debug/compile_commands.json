@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Acceptor.cpp.o -c /home/rjj/webServer/src/Acceptor.cpp",
+  "file": "/home/rjj/webServer/src/Acceptor.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Acceptor.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Buffer.cpp.o -c /home/rjj/webServer/src/Buffer.cpp",
+  "file": "/home/rjj/webServer/src/Buffer.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Buffer.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Channel.cpp.o -c /home/rjj/webServer/src/Channel.cpp",
+  "file": "/home/rjj/webServer/src/Channel.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Channel.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Connection.cpp.o -c /home/rjj/webServer/src/Connection.cpp",
+  "file": "/home/rjj/webServer/src/Connection.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Connection.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/EventLoop.cpp.o -c /home/rjj/webServer/src/EventLoop.cpp",
+  "file": "/home/rjj/webServer/src/EventLoop.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/EventLoop.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Poller.cpp.o -c /home/rjj/webServer/src/Poller.cpp",
+  "file": "/home/rjj/webServer/src/Poller.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Poller.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Socket.cpp.o -c /home/rjj/webServer/src/Socket.cpp",
+  "file": "/home/rjj/webServer/src/Socket.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Socket.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/TCPServer.cpp.o -c /home/rjj/webServer/src/TCPServer.cpp",
+  "file": "/home/rjj/webServer/src/TCPServer.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/TCPServer.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/ThreadPool.cpp.o -c /home/rjj/webServer/src/ThreadPool.cpp",
+  "file": "/home/rjj/webServer/src/ThreadPool.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/ThreadPool.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dpine_shared_EXPORTS -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fPIC -fdiagnostics-color=always -o src/CMakeFiles/pine_shared.dir/Timer.cpp.o -c /home/rjj/webServer/src/Timer.cpp",
+  "file": "/home/rjj/webServer/src/Timer.cpp",
+  "output": "src/CMakeFiles/pine_shared.dir/Timer.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fdiagnostics-color=always -o test/CMakeFiles/multiple_client.dir/multiple_client.cpp.o -c /home/rjj/webServer/test/multiple_client.cpp",
+  "file": "/home/rjj/webServer/test/multiple_client.cpp",
+  "output": "test/CMakeFiles/multiple_client.dir/multiple_client.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fdiagnostics-color=always -o test/CMakeFiles/server.dir/server.cpp.o -c /home/rjj/webServer/test/server.cpp",
+  "file": "/home/rjj/webServer/test/server.cpp",
+  "output": "test/CMakeFiles/server.dir/server.cpp.o"
+},
+{
+  "directory": "/home/rjj/webServer/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/rjj/webServer/src/include -I/home/rjj/webServer/test/include  -fPIC -Wall -Wextra -std=c++17 -pthread -Wno-unused-parameter -Wno-attributes -g -O0 -ggdb -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -std=gnu++17 -fdiagnostics-color=always -o test/CMakeFiles/single_client.dir/single_client.cpp.o -c /home/rjj/webServer/test/single_client.cpp",
+  "file": "/home/rjj/webServer/test/single_client.cpp",
+  "output": "test/CMakeFiles/single_client.dir/single_client.cpp.o"
+}
+]
